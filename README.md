@@ -1,2 +1,10 @@
-# java-desde-cero-records-generics-collections
-Repositorio de la formación en Openwebinars.net: Curso de Java desde cero. Records, Genéricos y Colecciones
+
+# Repositorio de la formación en Openwebinars.net: Java desde cero. Records, Genéricos y Colecciones.
+
+## Ejemplos
+
+Puedes encontrar todo el código de los ejemplos trabajados en las diferentes lecciones [aquí](./Ejemplos/)
+
+## Ejercicios
+
+Puedes encontrar el código fuente de los ejercicios resueltos, y los enunciados de algunos ejercicios propuestos [aquí](./Ejercicios/)
